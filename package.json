@@ -4,11 +4,16 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start:dev": "nodemon server.js",
-    "start": "NODE_ENV=production node server.js"
+    "start:dev": "nodemon index.js",
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "",
+
+  "engines": {
+    "node": "20.11.0"
+  },
+  
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
