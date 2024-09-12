@@ -2,10 +2,10 @@
   "name": "nodejs-ecommerce-api-v1",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
-    "start:dev": "nodemon index.js",
-    "start": "node index.js"
+    "start:dev": "nodemon app.js",
+    "start": "node app.js"
   },
   "keywords": [],
   "author": "",
@@ -48,8 +48,6 @@
     "eslint-plugin-react": "^7.28.0",
     "nodemon": "^2.0.15",
     "prettier": "^2.5.1"
-  },
-  "engines": {
-    "node": "^16.13.0"
   }
+  
 }
