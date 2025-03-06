@@ -44,7 +44,7 @@ The E-Commerce Backend is a robust Node.js application utilizing Express.js and 
 2. **Navigate to the project directory**:
 
    ```bash
-   cd graduation-project-backend
+   cd e-commerce backend
   
 3. **Install dependencies**:
 
